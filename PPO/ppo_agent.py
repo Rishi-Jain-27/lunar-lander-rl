@@ -109,6 +109,11 @@ class PPOAgent:
         # Get last value. 0 if episode ended at last step
         last_value = 0.0 if done else policy_network(torch.as_tensor(state))[1].item()
         
+        # Convert states, actions, and old log probs for tensors
+        # because they go to optimizer
+        states = torch.as_tensor(np.array(states), dtype=torch.float32)
+        actions = torch.as_tensor(np.array(actions), dtype=torch.long)
+        old_log_probs = torch.stack(old_log_probs) # stack into (n_steps,) tensor
         return (states, actions, old_log_probs, rewards, values, dones, last_value, completed_ep_rewards, state)
         
     def optimize(self, policy_network, optimizer, states, actions, old_log_probs, advantages, returns):
