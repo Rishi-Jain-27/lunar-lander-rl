@@ -1,0 +1,1429 @@
+26-06-04 21:39:06: Training starting...
+Episode 0: total reward -123.2, steps 60
+26-06-04 21:39:06: Episode 0 | New best mean reward: -123.2
+Episode 1: total reward -102.1, steps 63
+26-06-04 21:39:06: Episode 1 | New best mean reward: -112.6
+Episode 2: total reward -429.7, steps 101
+Episode 3: total reward -378.7, steps 88
+Episode 4: total reward -151.4, steps 67
+Episode 5: total reward -86.2, steps 73
+Episode 6: total reward -137.1, steps 58
+Episode 7: total reward -291.8, steps 113
+Episode 8: total reward -97.3, steps 80
+Episode 9: total reward -41.0, steps 69
+Episode 10: total reward -193.9, steps 148
+Episode 11: total reward -342.8, steps 77
+Episode 12: total reward -136.9, steps 76
+Episode 13: total reward -241.5, steps 105
+Episode 14: total reward -227.0, steps 109
+Episode 15: total reward -149.5, steps 59
+Episode 16: total reward -88.0, steps 60
+Episode 17: total reward -239.0, steps 107
+Episode 18: total reward -112.1, steps 86
+Episode 19: total reward -287.6, steps 137
+Episode 20: total reward -168.0, steps 126
+Episode 21: total reward -105.7, steps 80
+Episode 22: total reward -201.4, steps 72
+Episode 23: total reward -328.7, steps 96
+Episode 24: total reward -188.4, steps 109
+Episode 25: total reward -171.7, steps 133
+Episode 26: total reward -77.9, steps 65
+Episode 27: total reward -259.1, steps 77
+Episode 28: total reward -142.8, steps 74
+Episode 29: total reward -138.0, steps 115
+Episode 30: total reward -195.4, steps 79
+Episode 31: total reward -208.3, steps 82
+Episode 32: total reward -92.3, steps 66
+Episode 33: total reward -130.5, steps 73
+Episode 34: total reward -339.1, steps 151
+Episode 35: total reward -305.2, steps 96
+Episode 36: total reward -99.2, steps 154
+Episode 37: total reward -147.8, steps 121
+Episode 38: total reward -123.0, steps 97
+Episode 39: total reward -132.6, steps 86
+Episode 40: total reward -361.3, steps 131
+Episode 41: total reward -97.9, steps 74
+Episode 42: total reward -108.3, steps 130
+Episode 43: total reward -152.3, steps 90
+Episode 44: total reward -171.1, steps 93
+Episode 45: total reward -90.3, steps 69
+Episode 46: total reward -95.8, steps 101
+Episode 47: total reward -573.8, steps 128
+Episode 48: total reward -308.5, steps 114
+Episode 49: total reward -256.4, steps 121
+Episode 50: total reward -318.5, steps 148
+Episode 51: total reward -105.0, steps 82
+Episode 52: total reward -117.7, steps 81
+Episode 53: total reward -347.8, steps 134
+Episode 54: total reward -190.8, steps 116
+Episode 55: total reward -298.5, steps 87
+Episode 56: total reward -179.3, steps 101
+Episode 57: total reward -209.8, steps 115
+Episode 58: total reward -28.5, steps 86
+Episode 59: total reward -80.2, steps 114
+Episode 60: total reward -128.3, steps 103
+Episode 61: total reward -267.9, steps 97
+Episode 62: total reward -89.0, steps 97
+Episode 63: total reward -376.4, steps 114
+Episode 64: total reward -228.6, steps 107
+Episode 65: total reward -49.7, steps 196
+Episode 66: total reward -56.2, steps 67
+Episode 67: total reward -86.3, steps 114
+Episode 68: total reward -103.8, steps 149
+Episode 69: total reward -358.3, steps 92
+Episode 70: total reward -106.9, steps 147
+Episode 71: total reward -1.8, steps 117
+Episode 72: total reward -221.0, steps 127
+Episode 73: total reward -330.5, steps 187
+Episode 74: total reward -223.2, steps 90
+Episode 75: total reward -245.0, steps 137
+Episode 76: total reward -118.3, steps 74
+Episode 77: total reward -116.4, steps 99
+Episode 78: total reward -219.0, steps 149
+Episode 79: total reward -81.6, steps 101
+Episode 80: total reward -201.7, steps 143
+Episode 81: total reward -104.4, steps 73
+Episode 82: total reward -90.2, steps 96
+Episode 83: total reward -120.1, steps 89
+Episode 84: total reward -66.2, steps 69
+Episode 85: total reward -180.1, steps 101
+Episode 86: total reward -98.1, steps 164
+Episode 87: total reward -120.2, steps 113
+Episode 88: total reward -220.8, steps 151
+Episode 89: total reward -91.6, steps 93
+Episode 90: total reward -249.3, steps 98
+Episode 91: total reward -121.0, steps 128
+Episode 92: total reward -113.7, steps 133
+Episode 93: total reward -138.9, steps 115
+Episode 94: total reward -266.2, steps 82
+Episode 95: total reward -201.9, steps 85
+Episode 96: total reward -90.9, steps 79
+Episode 97: total reward -94.6, steps 138
+Episode 98: total reward -64.0, steps 69
+Episode 99: total reward -97.1, steps 103
+Episode 100: total reward -247.6, steps 148
+Episode 101: total reward -86.5, steps 169
+Episode 102: total reward -156.0, steps 141
+Episode 103: total reward -273.5, steps 81
+Episode 104: total reward -133.3, steps 111
+Episode 105: total reward -84.6, steps 75
+Episode 106: total reward -66.8, steps 169
+Episode 107: total reward -63.1, steps 85
+Episode 108: total reward -204.7, steps 102
+Episode 109: total reward -93.8, steps 66
+Episode 110: total reward -167.2, steps 100
+Episode 111: total reward -211.2, steps 85
+Episode 112: total reward -165.0, steps 105
+Episode 113: total reward -87.6, steps 82
+Episode 114: total reward -172.2, steps 131
+Episode 115: total reward 60.4, steps 127
+Episode 116: total reward -166.9, steps 95
+Episode 117: total reward -123.2, steps 82
+Episode 118: total reward -189.1, steps 79
+Episode 119: total reward -151.3, steps 118
+Episode 120: total reward -199.6, steps 154
+Episode 121: total reward -45.7, steps 97
+Episode 122: total reward -206.3, steps 157
+Episode 123: total reward -138.0, steps 96
+Episode 124: total reward -304.5, steps 147
+Episode 125: total reward -8.9, steps 75
+Episode 126: total reward -105.0, steps 102
+Episode 127: total reward -128.1, steps 109
+Episode 128: total reward -39.1, steps 147
+Episode 129: total reward -98.5, steps 90
+Episode 130: total reward -291.6, steps 159
+Episode 131: total reward -18.2, steps 82
+Episode 132: total reward -258.8, steps 188
+Episode 133: total reward -66.0, steps 148
+Episode 134: total reward -191.3, steps 119
+Episode 135: total reward -57.8, steps 104
+Episode 136: total reward -186.1, steps 131
+Episode 137: total reward -74.8, steps 119
+Episode 138: total reward -93.2, steps 95
+Episode 139: total reward -197.1, steps 100
+Episode 140: total reward -285.4, steps 165
+Episode 141: total reward -92.3, steps 99
+Episode 142: total reward -248.7, steps 165
+Episode 143: total reward -154.8, steps 130
+Episode 144: total reward -164.7, steps 136
+Episode 145: total reward -201.4, steps 157
+Episode 146: total reward -204.0, steps 177
+Episode 147: total reward -94.4, steps 93
+Episode 148: total reward -182.1, steps 136
+Episode 149: total reward -150.4, steps 103
+Episode 150: total reward -161.5, steps 108
+Episode 151: total reward -96.7, steps 81
+Episode 152: total reward -96.3, steps 106
+Episode 153: total reward -87.6, steps 66
+Episode 154: total reward -167.2, steps 117
+Episode 155: total reward -185.9, steps 106
+Episode 156: total reward -33.4, steps 82
+Episode 157: total reward -148.3, steps 111
+Episode 158: total reward -245.3, steps 113
+Episode 159: total reward -172.2, steps 110
+Episode 160: total reward -122.2, steps 89
+Episode 161: total reward -171.4, steps 138
+Episode 162: total reward -92.7, steps 74
+Episode 163: total reward -7.5, steps 95
+Episode 164: total reward -80.5, steps 115
+Episode 165: total reward -189.9, steps 125
+Episode 166: total reward -206.0, steps 119
+Episode 167: total reward -166.6, steps 111
+Episode 168: total reward -40.3, steps 105
+Episode 169: total reward -97.1, steps 90
+Episode 170: total reward -77.5, steps 78
+Episode 171: total reward -128.5, steps 132
+Episode 172: total reward -232.9, steps 173
+Episode 173: total reward -96.7, steps 112
+Episode 174: total reward -23.0, steps 76
+Episode 175: total reward -104.6, steps 126
+Episode 176: total reward -148.0, steps 139
+Episode 177: total reward -70.6, steps 105
+Episode 178: total reward -34.7, steps 91
+Episode 179: total reward -91.3, steps 77
+Episode 180: total reward -132.9, steps 121
+Episode 181: total reward -86.0, steps 177
+Episode 182: total reward -221.7, steps 129
+Episode 183: total reward -37.3, steps 88
+Episode 184: total reward -51.0, steps 81
+Episode 185: total reward -97.7, steps 71
+Episode 186: total reward -106.7, steps 77
+Episode 187: total reward -262.8, steps 135
+Episode 188: total reward -81.8, steps 148
+Episode 189: total reward -142.1, steps 145
+Episode 190: total reward -130.2, steps 164
+Episode 191: total reward -50.4, steps 138
+Episode 192: total reward -322.9, steps 132
+Episode 193: total reward -308.1, steps 114
+Episode 194: total reward -51.1, steps 88
+Episode 195: total reward -94.1, steps 89
+Episode 196: total reward -61.0, steps 85
+Episode 197: total reward -65.3, steps 89
+Episode 198: total reward -183.7, steps 136
+Episode 199: total reward -57.9, steps 157
+Episode 200: total reward -48.4, steps 177
+Episode 201: total reward -126.0, steps 71
+Episode 202: total reward -218.8, steps 112
+Episode 203: total reward -19.0, steps 151
+Episode 204: total reward -80.1, steps 81
+Episode 205: total reward -96.7, steps 171
+Episode 206: total reward -118.8, steps 110
+Episode 207: total reward -102.5, steps 197
+Episode 208: total reward -93.9, steps 103
+Episode 209: total reward -71.8, steps 85
+Episode 210: total reward -164.0, steps 145
+Episode 211: total reward -80.6, steps 120
+Episode 212: total reward -351.1, steps 165
+Episode 213: total reward -74.4, steps 167
+Episode 214: total reward -253.9, steps 170
+Episode 215: total reward -166.5, steps 111
+Episode 216: total reward -363.5, steps 130
+Episode 217: total reward -52.2, steps 111
+Episode 218: total reward -81.0, steps 94
+Episode 219: total reward -185.3, steps 104
+Episode 220: total reward -90.7, steps 104
+Episode 221: total reward -79.7, steps 97
+Episode 222: total reward -44.7, steps 83
+Episode 223: total reward -412.4, steps 225
+Episode 224: total reward -86.4, steps 105
+Episode 225: total reward -222.9, steps 188
+Episode 226: total reward -55.8, steps 148
+Episode 227: total reward -87.3, steps 363
+Episode 228: total reward -78.2, steps 97
+Episode 229: total reward -124.3, steps 156
+Episode 230: total reward -262.0, steps 141
+Episode 231: total reward -359.8, steps 153
+Episode 232: total reward -84.9, steps 209
+Episode 233: total reward -158.2, steps 181
+Episode 234: total reward -62.3, steps 212
+Episode 235: total reward -58.2, steps 83
+Episode 236: total reward -179.5, steps 102
+Episode 237: total reward -9.9, steps 116
+Episode 238: total reward -174.4, steps 159
+Episode 239: total reward -74.7, steps 106
+Episode 240: total reward -139.4, steps 115
+Episode 241: total reward -178.4, steps 122
+Episode 242: total reward -132.6, steps 107
+Episode 243: total reward -175.3, steps 144
+Episode 244: total reward -69.0, steps 121
+Episode 245: total reward -80.2, steps 170
+Episode 246: total reward -204.8, steps 119
+Episode 247: total reward -28.2, steps 182
+Episode 248: total reward -75.8, steps 123
+Episode 249: total reward -130.0, steps 123
+Episode 250: total reward -108.5, steps 96
+Episode 251: total reward -62.2, steps 124
+Episode 252: total reward -44.6, steps 85
+Episode 253: total reward -84.1, steps 185
+Episode 254: total reward -158.9, steps 166
+Episode 255: total reward -182.4, steps 101
+Episode 256: total reward -90.9, steps 116
+Episode 257: total reward -92.6, steps 89
+Episode 258: total reward -121.3, steps 123
+Episode 259: total reward 10.8, steps 118
+Episode 260: total reward -196.5, steps 140
+Episode 261: total reward -27.7, steps 81
+Episode 262: total reward -75.8, steps 81
+Episode 263: total reward -52.0, steps 222
+Episode 264: total reward -282.6, steps 152
+Episode 265: total reward -98.8, steps 175
+Episode 266: total reward -36.8, steps 86
+Episode 267: total reward -124.7, steps 196
+Episode 268: total reward -230.5, steps 112
+Episode 269: total reward -218.8, steps 253
+Episode 270: total reward -237.8, steps 116
+Episode 271: total reward -244.0, steps 124
+Episode 272: total reward -96.0, steps 171
+Episode 273: total reward -86.7, steps 81
+Episode 274: total reward -113.2, steps 98
+Episode 275: total reward -57.6, steps 152
+Episode 276: total reward -54.1, steps 103
+Episode 277: total reward -69.8, steps 111
+Episode 278: total reward -69.1, steps 80
+Episode 279: total reward -161.7, steps 171
+Episode 280: total reward -52.8, steps 188
+Episode 281: total reward -80.1, steps 105
+Episode 282: total reward -213.0, steps 92
+Episode 283: total reward -40.3, steps 170
+Episode 284: total reward -144.1, steps 95
+Episode 285: total reward -89.7, steps 180
+Episode 286: total reward -108.7, steps 91
+Episode 287: total reward -111.7, steps 154
+Episode 288: total reward -161.4, steps 191
+Episode 289: total reward -37.0, steps 78
+Episode 290: total reward -107.4, steps 101
+Episode 291: total reward -34.0, steps 142
+Episode 292: total reward -117.3, steps 88
+Episode 293: total reward -134.0, steps 154
+Episode 294: total reward -48.8, steps 94
+Episode 295: total reward -94.0, steps 183
+Episode 296: total reward -71.8, steps 191
+Episode 297: total reward -168.0, steps 106
+Episode 298: total reward -28.6, steps 95
+Episode 299: total reward -84.7, steps 128
+Episode 300: total reward -129.5, steps 204
+Episode 301: total reward -131.4, steps 141
+Episode 302: total reward -300.5, steps 140
+Episode 303: total reward -95.3, steps 255
+Episode 304: total reward -74.6, steps 77
+Episode 305: total reward -106.3, steps 160
+Episode 306: total reward -81.2, steps 105
+Episode 307: total reward -108.3, steps 155
+Episode 308: total reward -41.1, steps 193
+Episode 309: total reward -54.8, steps 95
+Episode 310: total reward -216.0, steps 99
+Episode 311: total reward -103.2, steps 110
+Episode 312: total reward -37.7, steps 131
+Episode 313: total reward -137.0, steps 137
+Episode 314: total reward -111.2, steps 118
+Episode 315: total reward -91.2, steps 195
+Episode 316: total reward -46.8, steps 171
+Episode 317: total reward -7.1, steps 157
+Episode 318: total reward -243.2, steps 158
+Episode 319: total reward -135.7, steps 134
+Episode 320: total reward -45.3, steps 157
+Episode 321: total reward -71.7, steps 179
+Episode 322: total reward -45.2, steps 174
+Episode 323: total reward -83.5, steps 123
+26-06-04 21:39:13: Episode 323 | New best mean reward: -111.9
+Episode 324: total reward -165.3, steps 224
+Episode 325: total reward -170.5, steps 158
+Episode 326: total reward -147.5, steps 168
+Episode 327: total reward -59.7, steps 89
+Episode 328: total reward -62.8, steps 87
+Episode 329: total reward -14.1, steps 122
+26-06-04 21:39:13: Episode 329 | New best mean reward: -111.5
+Episode 330: total reward -68.4, steps 104
+26-06-04 21:39:13: Episode 330 | New best mean reward: -109.6
+Episode 331: total reward -151.7, steps 175
+26-06-04 21:39:13: Episode 331 | New best mean reward: -107.5
+Episode 332: total reward -25.5, steps 112
+26-06-04 21:39:13: Episode 332 | New best mean reward: -106.9
+Episode 333: total reward -85.2, steps 119
+26-06-04 21:39:13: Episode 333 | New best mean reward: -106.2
+Episode 334: total reward -30.0, steps 122
+26-06-04 21:39:13: Episode 334 | New best mean reward: -105.8
+Episode 335: total reward -52.0, steps 136
+26-06-04 21:39:13: Episode 335 | New best mean reward: -105.8
+Episode 336: total reward -41.1, steps 145
+26-06-04 21:39:13: Episode 336 | New best mean reward: -104.4
+Episode 337: total reward -58.4, steps 103
+Episode 338: total reward -77.3, steps 185
+26-06-04 21:39:13: Episode 338 | New best mean reward: -103.9
+Episode 339: total reward -48.2, steps 92
+26-06-04 21:39:13: Episode 339 | New best mean reward: -103.7
+Episode 340: total reward -73.1, steps 121
+26-06-04 21:39:13: Episode 340 | New best mean reward: -103.0
+Episode 341: total reward 7.2, steps 119
+26-06-04 21:39:13: Episode 341 | New best mean reward: -101.1
+Episode 342: total reward -107.0, steps 170
+26-06-04 21:39:13: Episode 342 | New best mean reward: -100.9
+Episode 343: total reward -41.0, steps 107
+26-06-04 21:39:13: Episode 343 | New best mean reward: -99.5
+Episode 344: total reward -347.3, steps 138
+Episode 345: total reward -44.7, steps 88
+Episode 346: total reward -396.3, steps 141
+Episode 347: total reward -102.9, steps 84
+Episode 348: total reward 33.0, steps 104
+Episode 349: total reward -321.1, steps 110
+Episode 350: total reward -288.9, steps 139
+Episode 351: total reward -45.5, steps 131
+Episode 352: total reward -165.2, steps 207
+Episode 353: total reward -138.4, steps 162
+Episode 354: total reward -22.4, steps 166
+Episode 355: total reward -37.3, steps 110
+Episode 356: total reward -30.2, steps 148
+Episode 357: total reward -69.5, steps 144
+Episode 358: total reward -111.3, steps 139
+Episode 359: total reward -137.0, steps 104
+Episode 360: total reward -57.1, steps 172
+Episode 361: total reward -49.9, steps 113
+Episode 362: total reward -71.9, steps 122
+Episode 363: total reward -99.0, steps 115
+Episode 364: total reward -48.9, steps 143
+Episode 365: total reward -11.2, steps 97
+Episode 366: total reward -19.5, steps 131
+Episode 367: total reward -228.1, steps 143
+Episode 368: total reward -100.8, steps 134
+Episode 369: total reward -36.4, steps 113
+Episode 370: total reward -77.6, steps 130
+26-06-04 21:39:14: Episode 370 | New best mean reward: -98.7
+Episode 371: total reward -47.2, steps 157
+26-06-04 21:39:14: Episode 371 | New best mean reward: -96.8
+Episode 372: total reward -228.8, steps 135
+Episode 373: total reward -28.3, steps 124
+Episode 374: total reward -75.5, steps 75
+Episode 375: total reward -35.2, steps 145
+Episode 376: total reward -36.7, steps 96
+26-06-04 21:39:14: Episode 376 | New best mean reward: -96.7
+Episode 377: total reward -57.1, steps 198
+26-06-04 21:39:14: Episode 377 | New best mean reward: -96.6
+Episode 378: total reward -67.4, steps 174
+26-06-04 21:39:14: Episode 378 | New best mean reward: -96.6
+Episode 379: total reward -54.4, steps 103
+26-06-04 21:39:14: Episode 379 | New best mean reward: -95.5
+Episode 380: total reward -83.0, steps 128
+Episode 381: total reward -80.5, steps 121
+Episode 382: total reward -72.3, steps 156
+26-06-04 21:39:14: Episode 382 | New best mean reward: -94.4
+Episode 383: total reward -130.9, steps 133
+Episode 384: total reward -150.5, steps 164
+Episode 385: total reward 7.0, steps 154
+Episode 386: total reward -22.9, steps 155
+26-06-04 21:39:14: Episode 386 | New best mean reward: -93.6
+Episode 387: total reward -15.0, steps 206
+26-06-04 21:39:14: Episode 387 | New best mean reward: -92.6
+Episode 388: total reward -39.6, steps 118
+26-06-04 21:39:14: Episode 388 | New best mean reward: -91.4
+Episode 389: total reward -31.1, steps 94
+26-06-04 21:39:14: Episode 389 | New best mean reward: -91.3
+Episode 390: total reward -55.5, steps 111
+26-06-04 21:39:14: Episode 390 | New best mean reward: -90.8
+Episode 391: total reward -40.8, steps 99
+Episode 392: total reward 43.2, steps 1000
+26-06-04 21:39:14: Episode 392 | New best mean reward: -89.3
+Episode 393: total reward -202.6, steps 163
+Episode 394: total reward 25.0, steps 93
+26-06-04 21:39:14: Episode 394 | New best mean reward: -89.2
+Episode 395: total reward -54.6, steps 112
+26-06-04 21:39:14: Episode 395 | New best mean reward: -88.8
+Episode 396: total reward 42.4, steps 129
+26-06-04 21:39:14: Episode 396 | New best mean reward: -87.7
+Episode 397: total reward -14.8, steps 137
+26-06-04 21:39:14: Episode 397 | New best mean reward: -86.2
+Episode 398: total reward -17.2, steps 113
+26-06-04 21:39:14: Episode 398 | New best mean reward: -86.0
+Episode 399: total reward -61.0, steps 174
+26-06-04 21:39:14: Episode 399 | New best mean reward: -85.8
+Episode 400: total reward -10.5, steps 90
+26-06-04 21:39:14: Episode 400 | New best mean reward: -84.6
+Episode 401: total reward -14.3, steps 148
+26-06-04 21:39:14: Episode 401 | New best mean reward: -83.4
+Episode 402: total reward -76.8, steps 190
+26-06-04 21:39:14: Episode 402 | New best mean reward: -81.2
+Episode 403: total reward -80.5, steps 100
+26-06-04 21:39:14: Episode 403 | New best mean reward: -81.1
+Episode 404: total reward -345.7, steps 189
+Episode 405: total reward -335.0, steps 174
+Episode 406: total reward -277.1, steps 203
+Episode 407: total reward -18.0, steps 133
+Episode 408: total reward -48.7, steps 155
+Episode 409: total reward 28.9, steps 188
+Episode 410: total reward -40.0, steps 169
+Episode 411: total reward 38.7, steps 146
+Episode 412: total reward 28.3, steps 1000
+Episode 413: total reward -67.0, steps 147
+Episode 414: total reward -45.8, steps 173
+Episode 415: total reward -219.1, steps 177
+Episode 416: total reward -25.9, steps 88
+Episode 417: total reward -180.1, steps 132
+Episode 418: total reward -86.1, steps 128
+Episode 419: total reward -47.9, steps 116
+Episode 420: total reward -30.7, steps 229
+Episode 421: total reward -53.7, steps 136
+Episode 422: total reward 33.2, steps 93
+26-06-04 21:39:15: Episode 422 | New best mean reward: -80.4
+Episode 423: total reward -54.2, steps 112
+26-06-04 21:39:15: Episode 423 | New best mean reward: -80.1
+Episode 424: total reward -165.1, steps 157
+26-06-04 21:39:15: Episode 424 | New best mean reward: -80.1
+Episode 425: total reward -93.3, steps 158
+26-06-04 21:39:15: Episode 425 | New best mean reward: -79.3
+Episode 426: total reward 5.4, steps 140
+26-06-04 21:39:15: Episode 426 | New best mean reward: -77.8
+Episode 427: total reward -24.8, steps 98
+26-06-04 21:39:15: Episode 427 | New best mean reward: -77.5
+Episode 428: total reward -46.2, steps 106
+26-06-04 21:39:15: Episode 428 | New best mean reward: -77.3
+Episode 429: total reward -47.6, steps 71
+Episode 430: total reward -66.4, steps 142
+Episode 431: total reward -65.2, steps 123
+26-06-04 21:39:15: Episode 431 | New best mean reward: -76.7
+Episode 432: total reward -193.3, steps 171
+Episode 433: total reward -77.6, steps 104
+Episode 434: total reward -87.9, steps 150
+Episode 435: total reward -71.1, steps 108
+Episode 436: total reward -30.7, steps 99
+Episode 437: total reward -35.7, steps 90
+Episode 438: total reward -6.4, steps 98
+Episode 439: total reward -5.3, steps 156
+Episode 440: total reward -106.8, steps 136
+Episode 441: total reward -29.3, steps 132
+Episode 442: total reward -19.7, steps 136
+Episode 443: total reward -29.9, steps 78
+Episode 444: total reward -109.8, steps 183
+26-06-04 21:39:15: Episode 444 | New best mean reward: -75.0
+Episode 445: total reward -51.0, steps 133
+Episode 446: total reward -296.0, steps 178
+26-06-04 21:39:15: Episode 446 | New best mean reward: -74.0
+Episode 447: total reward -53.1, steps 91
+26-06-04 21:39:15: Episode 447 | New best mean reward: -73.5
+Episode 448: total reward -17.3, steps 94
+Episode 449: total reward -10.5, steps 124
+26-06-04 21:39:16: Episode 449 | New best mean reward: -70.9
+Episode 450: total reward -146.8, steps 144
+26-06-04 21:39:16: Episode 450 | New best mean reward: -69.5
+Episode 451: total reward -35.2, steps 146
+26-06-04 21:39:16: Episode 451 | New best mean reward: -69.4
+Episode 452: total reward -60.5, steps 143
+26-06-04 21:39:16: Episode 452 | New best mean reward: -68.4
+Episode 453: total reward -69.0, steps 158
+26-06-04 21:39:16: Episode 453 | New best mean reward: -67.7
+Episode 454: total reward -88.2, steps 138
+Episode 455: total reward -67.8, steps 101
+Episode 456: total reward -150.6, steps 159
+Episode 457: total reward -12.8, steps 99
+Episode 458: total reward -371.6, steps 121
+Episode 459: total reward -64.2, steps 104
+Episode 460: total reward -26.7, steps 127
+Episode 461: total reward -21.2, steps 115
+Episode 462: total reward -85.0, steps 140
+Episode 463: total reward -210.6, steps 174
+Episode 464: total reward 2.3, steps 138
+Episode 465: total reward 5.1, steps 174
+Episode 466: total reward -54.9, steps 118
+Episode 467: total reward -19.7, steps 101
+Episode 468: total reward -52.8, steps 76
+Episode 469: total reward -35.6, steps 140
+Episode 470: total reward -316.4, steps 294
+Episode 471: total reward -17.9, steps 193
+Episode 472: total reward -16.6, steps 125
+Episode 473: total reward -51.2, steps 183
+Episode 474: total reward 1.1, steps 170
+Episode 475: total reward -36.7, steps 133
+Episode 476: total reward -78.9, steps 100
+Episode 477: total reward -40.7, steps 157
+Episode 478: total reward -32.1, steps 152
+Episode 479: total reward -133.2, steps 130
+Episode 480: total reward 20.6, steps 89
+Episode 481: total reward -32.5, steps 120
+26-06-04 21:39:16: Episode 481 | New best mean reward: -67.5
+Episode 482: total reward -40.5, steps 118
+26-06-04 21:39:16: Episode 482 | New best mean reward: -67.2
+Episode 483: total reward -32.2, steps 124
+26-06-04 21:39:16: Episode 483 | New best mean reward: -66.2
+Episode 484: total reward 3.2, steps 317
+26-06-04 21:39:16: Episode 484 | New best mean reward: -64.7
+Episode 485: total reward -179.5, steps 119
+Episode 486: total reward 54.7, steps 121
+Episode 487: total reward -32.0, steps 80
+Episode 488: total reward -75.6, steps 179
+Episode 489: total reward -15.6, steps 133
+Episode 490: total reward -88.4, steps 136
+Episode 491: total reward -47.4, steps 133
+Episode 492: total reward -10.7, steps 111
+Episode 493: total reward 16.3, steps 120
+Episode 494: total reward -97.8, steps 96
+Episode 495: total reward -359.6, steps 189
+Episode 496: total reward 31.0, steps 105
+Episode 497: total reward -52.0, steps 143
+Episode 498: total reward -280.7, steps 206
+Episode 499: total reward -52.3, steps 99
+Episode 500: total reward -80.9, steps 128
+Episode 501: total reward -38.7, steps 153
+Episode 502: total reward -37.4, steps 107
+Episode 503: total reward -111.0, steps 145
+Episode 504: total reward 0.8, steps 152
+Episode 505: total reward -29.3, steps 134
+Episode 506: total reward -61.4, steps 149
+26-06-04 21:39:17: Episode 506 | New best mean reward: -64.4
+Episode 507: total reward -82.0, steps 205
+Episode 508: total reward -0.7, steps 146
+Episode 509: total reward -17.1, steps 107
+Episode 510: total reward 88.9, steps 1000
+26-06-04 21:39:17: Episode 510 | New best mean reward: -63.7
+Episode 511: total reward 24.1, steps 174
+Episode 512: total reward -17.9, steps 152
+Episode 513: total reward -17.4, steps 156
+Episode 514: total reward -197.8, steps 301
+Episode 515: total reward -64.5, steps 113
+Episode 516: total reward -96.5, steps 168
+Episode 517: total reward -111.9, steps 102
+Episode 518: total reward -162.3, steps 181
+Episode 519: total reward -8.9, steps 159
+Episode 520: total reward -15.6, steps 142
+Episode 521: total reward 73.0, steps 1000
+26-06-04 21:39:17: Episode 521 | New best mean reward: -62.8
+Episode 522: total reward -129.8, steps 90
+Episode 523: total reward -16.4, steps 152
+Episode 524: total reward -39.3, steps 119
+26-06-04 21:39:18: Episode 524 | New best mean reward: -62.8
+Episode 525: total reward 17.9, steps 126
+26-06-04 21:39:18: Episode 525 | New best mean reward: -61.7
+Episode 526: total reward -47.6, steps 85
+Episode 527: total reward -56.7, steps 89
+Episode 528: total reward -84.3, steps 205
+Episode 529: total reward -182.0, steps 205
+Episode 530: total reward -31.2, steps 208
+Episode 531: total reward 2.9, steps 181
+Episode 532: total reward -42.6, steps 122
+Episode 533: total reward -17.6, steps 192
+26-06-04 21:39:18: Episode 533 | New best mean reward: -61.1
+Episode 534: total reward 2.3, steps 140
+26-06-04 21:39:18: Episode 534 | New best mean reward: -60.2
+Episode 535: total reward -245.0, steps 200
+Episode 536: total reward -46.2, steps 158
+Episode 537: total reward -17.6, steps 136
+Episode 538: total reward -47.7, steps 222
+Episode 539: total reward -71.5, steps 169
+Episode 540: total reward -64.2, steps 200
+Episode 541: total reward -58.9, steps 163
+Episode 542: total reward -199.9, steps 927
+Episode 543: total reward -11.1, steps 123
+Episode 544: total reward -92.8, steps 175
+Episode 545: total reward 6.9, steps 174
+Episode 546: total reward -72.6, steps 196
+Episode 547: total reward -68.1, steps 175
+Episode 548: total reward -55.6, steps 238
+Episode 549: total reward -29.4, steps 93
+Episode 550: total reward -78.1, steps 233
+Episode 551: total reward -209.1, steps 318
+Episode 552: total reward -157.2, steps 209
+Episode 553: total reward 13.7, steps 145
+Episode 554: total reward -154.0, steps 147
+Episode 555: total reward -238.8, steps 159
+Episode 556: total reward -142.3, steps 236
+Episode 557: total reward -214.3, steps 174
+Episode 558: total reward -196.2, steps 325
+Episode 559: total reward -88.0, steps 246
+Episode 560: total reward 36.9, steps 156
+Episode 561: total reward -56.0, steps 196
+Episode 562: total reward -12.6, steps 222
+Episode 563: total reward -174.5, steps 647
+Episode 564: total reward -135.3, steps 355
+Episode 565: total reward -45.2, steps 1000
+Episode 566: total reward -9.5, steps 359
+Episode 567: total reward -47.9, steps 247
+Episode 568: total reward 1.7, steps 145
+Episode 569: total reward 7.3, steps 194
+Episode 570: total reward 4.8, steps 124
+Episode 571: total reward -30.0, steps 248
+Episode 572: total reward -280.0, steps 624
+Episode 573: total reward 0.1, steps 156
+Episode 574: total reward -13.3, steps 105
+Episode 575: total reward -107.7, steps 189
+Episode 576: total reward 7.7, steps 1000
+Episode 577: total reward 12.2, steps 143
+Episode 578: total reward -122.1, steps 117
+Episode 579: total reward 28.8, steps 1000
+Episode 580: total reward 29.0, steps 1000
+Episode 581: total reward -16.0, steps 158
+Episode 582: total reward 41.4, steps 142
+Episode 583: total reward -36.5, steps 133
+Episode 584: total reward -12.0, steps 168
+Episode 585: total reward -78.9, steps 208
+Episode 586: total reward -80.0, steps 169
+Episode 587: total reward 4.3, steps 162
+Episode 588: total reward -1.6, steps 1000
+Episode 589: total reward -58.6, steps 114
+Episode 590: total reward -258.0, steps 235
+Episode 591: total reward 58.3, steps 1000
+Episode 592: total reward 33.3, steps 146
+Episode 593: total reward -38.8, steps 1000
+Episode 594: total reward -73.2, steps 145
+Episode 595: total reward 29.5, steps 166
+26-06-04 21:39:21: Episode 595 | New best mean reward: -58.7
+Episode 596: total reward -51.5, steps 162
+Episode 597: total reward -35.1, steps 188
+Episode 598: total reward 42.0, steps 201
+26-06-04 21:39:21: Episode 598 | New best mean reward: -56.2
+Episode 599: total reward -64.2, steps 200
+Episode 600: total reward -68.7, steps 170
+26-06-04 21:39:21: Episode 600 | New best mean reward: -56.2
+Episode 601: total reward 22.3, steps 110
+26-06-04 21:39:21: Episode 601 | New best mean reward: -55.6
+Episode 602: total reward -74.8, steps 212
+Episode 603: total reward -128.5, steps 169
+Episode 604: total reward -6.5, steps 138
+Episode 605: total reward -17.4, steps 105
+Episode 606: total reward 17.9, steps 218
+26-06-04 21:39:21: Episode 606 | New best mean reward: -55.3
+Episode 607: total reward 26.4, steps 107
+26-06-04 21:39:21: Episode 607 | New best mean reward: -54.2
+Episode 608: total reward 12.7, steps 172
+26-06-04 21:39:21: Episode 608 | New best mean reward: -54.0
+Episode 609: total reward -31.6, steps 225
+Episode 610: total reward 6.5, steps 133
+Episode 611: total reward -8.5, steps 220
+Episode 612: total reward 10.4, steps 116
+Episode 613: total reward -152.4, steps 257
+Episode 614: total reward -21.3, steps 141
+Episode 615: total reward -42.7, steps 181
+Episode 616: total reward -92.2, steps 169
+Episode 617: total reward -55.9, steps 130
+26-06-04 21:39:21: Episode 617 | New best mean reward: -53.8
+Episode 618: total reward -54.2, steps 160
+26-06-04 21:39:21: Episode 618 | New best mean reward: -52.7
+Episode 619: total reward -24.9, steps 191
+Episode 620: total reward 20.8, steps 121
+26-06-04 21:39:21: Episode 620 | New best mean reward: -52.5
+Episode 621: total reward 15.3, steps 212
+Episode 622: total reward -45.9, steps 659
+26-06-04 21:39:22: Episode 622 | New best mean reward: -52.3
+Episode 623: total reward -67.7, steps 210
+Episode 624: total reward -39.3, steps 219
+Episode 625: total reward 38.5, steps 146
+Episode 626: total reward -48.9, steps 138
+Episode 627: total reward 14.8, steps 140
+26-06-04 21:39:22: Episode 627 | New best mean reward: -51.9
+Episode 628: total reward 38.0, steps 111
+26-06-04 21:39:22: Episode 628 | New best mean reward: -50.7
+Episode 629: total reward -166.1, steps 186
+26-06-04 21:39:22: Episode 629 | New best mean reward: -50.5
+Episode 630: total reward 41.4, steps 159
+26-06-04 21:39:22: Episode 630 | New best mean reward: -49.8
+Episode 631: total reward 8.7, steps 1000
+26-06-04 21:39:22: Episode 631 | New best mean reward: -49.7
+Episode 632: total reward 34.4, steps 110
+26-06-04 21:39:22: Episode 632 | New best mean reward: -48.9
+Episode 633: total reward -44.9, steps 181
+Episode 634: total reward -18.7, steps 158
+Episode 635: total reward -42.1, steps 116
+26-06-04 21:39:22: Episode 635 | New best mean reward: -47.4
+Episode 636: total reward 19.4, steps 219
+26-06-04 21:39:22: Episode 636 | New best mean reward: -46.7
+Episode 637: total reward -8.6, steps 115
+26-06-04 21:39:22: Episode 637 | New best mean reward: -46.7
+Episode 638: total reward -44.1, steps 193
+26-06-04 21:39:22: Episode 638 | New best mean reward: -46.6
+Episode 639: total reward -26.5, steps 133
+26-06-04 21:39:22: Episode 639 | New best mean reward: -46.2
+Episode 640: total reward -7.6, steps 194
+26-06-04 21:39:22: Episode 640 | New best mean reward: -45.6
+Episode 641: total reward -64.1, steps 170
+Episode 642: total reward 30.4, steps 146
+26-06-04 21:39:22: Episode 642 | New best mean reward: -43.3
+Episode 643: total reward -14.2, steps 110
+Episode 644: total reward -283.4, steps 167
+Episode 645: total reward -66.5, steps 112
+Episode 646: total reward 7.6, steps 174
+Episode 647: total reward -7.7, steps 126
+Episode 648: total reward 4.3, steps 106
+Episode 649: total reward 13.9, steps 121
+Episode 650: total reward -2.4, steps 167
+26-06-04 21:39:23: Episode 650 | New best mean reward: -42.8
+Episode 651: total reward 26.8, steps 165
+26-06-04 21:39:23: Episode 651 | New best mean reward: -40.5
+Episode 652: total reward 35.4, steps 1000
+26-06-04 21:39:23: Episode 652 | New best mean reward: -38.5
+Episode 653: total reward -46.0, steps 109
+Episode 654: total reward -98.0, steps 189
+Episode 655: total reward -56.9, steps 244
+26-06-04 21:39:23: Episode 655 | New best mean reward: -36.8
+Episode 656: total reward -11.1, steps 113
+26-06-04 21:39:23: Episode 656 | New best mean reward: -35.4
+Episode 657: total reward 0.7, steps 1000
+26-06-04 21:39:23: Episode 657 | New best mean reward: -33.3
+Episode 658: total reward 7.7, steps 193
+26-06-04 21:39:23: Episode 658 | New best mean reward: -31.3
+Episode 659: total reward 20.3, steps 1000
+26-06-04 21:39:23: Episode 659 | New best mean reward: -30.2
+Episode 660: total reward 26.2, steps 123
+Episode 661: total reward 17.2, steps 126
+26-06-04 21:39:23: Episode 661 | New best mean reward: -29.5
+Episode 662: total reward 4.9, steps 119
+26-06-04 21:39:23: Episode 662 | New best mean reward: -29.4
+Episode 663: total reward -61.2, steps 247
+26-06-04 21:39:23: Episode 663 | New best mean reward: -28.2
+Episode 664: total reward 20.1, steps 138
+26-06-04 21:39:23: Episode 664 | New best mean reward: -26.7
+Episode 665: total reward -20.7, steps 1000
+26-06-04 21:39:23: Episode 665 | New best mean reward: -26.4
+Episode 666: total reward -78.6, steps 205
+Episode 667: total reward -156.3, steps 672
+Episode 668: total reward 25.4, steps 1000
+Episode 669: total reward -39.9, steps 241
+Episode 670: total reward -144.8, steps 270
+Episode 671: total reward -257.1, steps 713
+Episode 672: total reward -104.1, steps 370
+Episode 673: total reward -108.8, steps 366
+Episode 674: total reward -245.7, steps 806
+Episode 675: total reward -199.5, steps 429
+Episode 676: total reward -211.2, steps 413
+Episode 677: total reward -90.0, steps 212
+Episode 678: total reward 22.0, steps 125
+Episode 679: total reward -237.2, steps 436
+Episode 680: total reward -90.8, steps 250
+Episode 681: total reward -71.2, steps 1000
+Episode 682: total reward 11.2, steps 118
+Episode 683: total reward -238.2, steps 754
+Episode 684: total reward -60.6, steps 250
+Episode 685: total reward -9.1, steps 183
+Episode 686: total reward -326.9, steps 425
+Episode 687: total reward -186.3, steps 251
+Episode 688: total reward -196.2, steps 521
+Episode 689: total reward -40.7, steps 120
+Episode 690: total reward -185.7, steps 196
+Episode 691: total reward -100.0, steps 146
+Episode 692: total reward -79.5, steps 306
+Episode 693: total reward -73.6, steps 161
+Episode 694: total reward -205.9, steps 595
+Episode 695: total reward -147.3, steps 234
+Episode 696: total reward -92.3, steps 243
+Episode 697: total reward 54.3, steps 180
+Episode 698: total reward -160.5, steps 505
+Episode 699: total reward -65.4, steps 167
+Episode 700: total reward -85.4, steps 188
+Episode 701: total reward -12.9, steps 1000
+Episode 702: total reward -79.1, steps 1000
+Episode 703: total reward -43.1, steps 266
+Episode 704: total reward -92.4, steps 730
+Episode 705: total reward -15.9, steps 203
+Episode 706: total reward 3.7, steps 346
+Episode 707: total reward -40.6, steps 230
+Episode 708: total reward -4.3, steps 1000
+Episode 709: total reward -67.7, steps 260
+Episode 710: total reward 7.9, steps 1000
+Episode 711: total reward -21.2, steps 1000
+Episode 712: total reward -284.5, steps 705
+Episode 713: total reward 3.4, steps 234
+Episode 714: total reward -67.6, steps 409
+Episode 715: total reward 14.7, steps 302
+Episode 716: total reward -39.4, steps 425
+Episode 717: total reward -14.4, steps 1000
+Episode 718: total reward -264.8, steps 234
+Episode 719: total reward -27.1, steps 220
+Episode 720: total reward 23.6, steps 201
+Episode 721: total reward -131.9, steps 323
+Episode 722: total reward -117.4, steps 254
+Episode 723: total reward -10.3, steps 244
+Episode 724: total reward 12.8, steps 1000
+Episode 725: total reward -85.4, steps 1000
+Episode 726: total reward -112.3, steps 263
+Episode 727: total reward -174.5, steps 332
+Episode 728: total reward -75.3, steps 241
+Episode 729: total reward 10.1, steps 1000
+Episode 730: total reward -34.0, steps 1000
+Episode 731: total reward -143.7, steps 201
+Episode 732: total reward -61.1, steps 1000
+Episode 733: total reward -64.0, steps 1000
+Episode 734: total reward -55.8, steps 1000
+Episode 735: total reward -136.6, steps 1000
+Episode 736: total reward -25.7, steps 1000
+Episode 737: total reward -73.5, steps 1000
+Episode 738: total reward -119.2, steps 263
+Episode 739: total reward 21.5, steps 222
+Episode 740: total reward -32.0, steps 1000
+Episode 741: total reward -4.1, steps 1000
+Episode 742: total reward -39.5, steps 207
+Episode 743: total reward -41.2, steps 206
+Episode 744: total reward -10.8, steps 248
+Episode 745: total reward -59.3, steps 106
+Episode 746: total reward 20.3, steps 1000
+Episode 747: total reward -1.5, steps 116
+Episode 748: total reward 20.7, steps 1000
+Episode 749: total reward 1.5, steps 1000
+Episode 750: total reward 19.0, steps 1000
+Episode 751: total reward -36.2, steps 129
+Episode 752: total reward -5.8, steps 140
+Episode 753: total reward -89.5, steps 1000
+Episode 754: total reward -103.4, steps 221
+Episode 755: total reward -49.8, steps 581
+Episode 756: total reward -83.9, steps 279
+Episode 757: total reward -60.9, steps 172
+Episode 758: total reward -206.7, steps 237
+Episode 759: total reward 34.1, steps 133
+Episode 760: total reward 3.8, steps 188
+Episode 761: total reward 8.8, steps 215
+Episode 762: total reward -10.3, steps 1000
+Episode 763: total reward -27.9, steps 1000
+Episode 764: total reward 29.0, steps 115
+Episode 765: total reward 48.5, steps 1000
+Episode 766: total reward -167.0, steps 341
+Episode 767: total reward 2.4, steps 121
+Episode 768: total reward 17.5, steps 126
+Episode 769: total reward 13.0, steps 1000
+Episode 770: total reward 17.7, steps 197
+Episode 771: total reward -56.6, steps 188
+Episode 772: total reward -49.9, steps 174
+Episode 773: total reward 39.8, steps 1000
+Episode 774: total reward -76.7, steps 1000
+Episode 775: total reward 6.2, steps 145
+Episode 776: total reward -216.2, steps 752
+Episode 777: total reward 10.4, steps 1000
+Episode 778: total reward 3.1, steps 148
+Episode 779: total reward 12.2, steps 1000
+Episode 780: total reward -4.4, steps 1000
+Episode 781: total reward 32.7, steps 1000
+Episode 782: total reward -38.6, steps 1000
+Episode 783: total reward 4.9, steps 556
+Episode 784: total reward -33.8, steps 195
+Episode 785: total reward 42.3, steps 122
+Episode 786: total reward -20.4, steps 1000
+Episode 787: total reward -25.4, steps 1000
+Episode 788: total reward -85.1, steps 226
+Episode 789: total reward 35.5, steps 1000
+Episode 790: total reward 23.7, steps 198
+Episode 791: total reward -48.8, steps 1000
+Episode 792: total reward 19.1, steps 184
+Episode 793: total reward 4.3, steps 1000
+Episode 794: total reward 18.9, steps 1000
+Episode 795: total reward -21.9, steps 1000
+Episode 796: total reward 13.3, steps 1000
+Episode 797: total reward 39.8, steps 198
+Episode 798: total reward 6.6, steps 185
+Episode 799: total reward 31.9, steps 1000
+Episode 800: total reward 58.4, steps 155
+Episode 801: total reward 0.1, steps 1000
+Episode 802: total reward -20.0, steps 168
+Episode 803: total reward 59.2, steps 1000
+Episode 804: total reward -32.7, steps 224
+Episode 805: total reward 4.9, steps 1000
+Episode 806: total reward 13.3, steps 1000
+Episode 807: total reward -12.3, steps 1000
+Episode 808: total reward 19.2, steps 174
+Episode 809: total reward -51.6, steps 202
+Episode 810: total reward 41.7, steps 1000
+Episode 811: total reward -197.0, steps 551
+Episode 812: total reward -63.8, steps 1000
+Episode 813: total reward 51.6, steps 1000
+Episode 814: total reward 7.3, steps 194
+Episode 815: total reward 3.9, steps 1000
+Episode 816: total reward 54.0, steps 1000
+Episode 817: total reward 18.2, steps 173
+Episode 818: total reward 4.9, steps 208
+26-06-04 21:39:37: Episode 818 | New best mean reward: -25.5
+Episode 819: total reward -8.6, steps 1000
+26-06-04 21:39:37: Episode 819 | New best mean reward: -25.3
+Episode 820: total reward -18.4, steps 159
+Episode 821: total reward 1.2, steps 142
+26-06-04 21:39:37: Episode 821 | New best mean reward: -24.4
+Episode 822: total reward 32.4, steps 172
+26-06-04 21:39:37: Episode 822 | New best mean reward: -22.9
+Episode 823: total reward 42.3, steps 172
+26-06-04 21:39:37: Episode 823 | New best mean reward: -22.4
+Episode 824: total reward 4.6, steps 205
+Episode 825: total reward -9.8, steps 187
+26-06-04 21:39:37: Episode 825 | New best mean reward: -21.7
+Episode 826: total reward -8.1, steps 1000
+26-06-04 21:39:38: Episode 826 | New best mean reward: -20.6
+Episode 827: total reward 31.5, steps 1000
+26-06-04 21:39:38: Episode 827 | New best mean reward: -18.6
+Episode 828: total reward 16.3, steps 1000
+26-06-04 21:39:38: Episode 828 | New best mean reward: -17.7
+Episode 829: total reward 63.5, steps 1000
+26-06-04 21:39:38: Episode 829 | New best mean reward: -17.1
+Episode 830: total reward 1.2, steps 1000
+26-06-04 21:39:38: Episode 830 | New best mean reward: -16.8
+Episode 831: total reward 33.6, steps 1000
+26-06-04 21:39:38: Episode 831 | New best mean reward: -15.0
+Episode 832: total reward 64.2, steps 1000
+26-06-04 21:39:39: Episode 832 | New best mean reward: -13.8
+Episode 833: total reward -30.2, steps 201
+26-06-04 21:39:39: Episode 833 | New best mean reward: -13.4
+Episode 834: total reward 25.7, steps 134
+26-06-04 21:39:39: Episode 834 | New best mean reward: -12.6
+Episode 835: total reward 54.4, steps 1000
+26-06-04 21:39:39: Episode 835 | New best mean reward: -10.7
+Episode 836: total reward 9.8, steps 190
+26-06-04 21:39:39: Episode 836 | New best mean reward: -10.3
+Episode 837: total reward 39.8, steps 1000
+26-06-04 21:39:39: Episode 837 | New best mean reward: -9.2
+Episode 838: total reward 97.6, steps 1000
+26-06-04 21:39:39: Episode 838 | New best mean reward: -7.0
+Episode 839: total reward -0.5, steps 163
+Episode 840: total reward 29.1, steps 111
+26-06-04 21:39:39: Episode 840 | New best mean reward: -6.6
+Episode 841: total reward 36.4, steps 136
+26-06-04 21:39:39: Episode 841 | New best mean reward: -6.2
+Episode 842: total reward -22.6, steps 148
+26-06-04 21:39:39: Episode 842 | New best mean reward: -6.1
+Episode 843: total reward 23.2, steps 200
+26-06-04 21:39:39: Episode 843 | New best mean reward: -5.4
+Episode 844: total reward 38.9, steps 170
+26-06-04 21:39:39: Episode 844 | New best mean reward: -4.9
+Episode 845: total reward 17.7, steps 148
+26-06-04 21:39:39: Episode 845 | New best mean reward: -4.2
+Episode 846: total reward -15.1, steps 109
+Episode 847: total reward -42.8, steps 134
+Episode 848: total reward 14.9, steps 128
+Episode 849: total reward 12.0, steps 128
+Episode 850: total reward -14.4, steps 182
+Episode 851: total reward -48.6, steps 1000
+Episode 852: total reward -11.4, steps 1000
+Episode 853: total reward 10.0, steps 117
+Episode 854: total reward 19.2, steps 230
+26-06-04 21:39:40: Episode 854 | New best mean reward: -3.2
+Episode 855: total reward 20.3, steps 142
+26-06-04 21:39:40: Episode 855 | New best mean reward: -2.5
+Episode 856: total reward -12.8, steps 1000
+26-06-04 21:39:40: Episode 856 | New best mean reward: -1.8
+Episode 857: total reward -32.1, steps 93
+26-06-04 21:39:40: Episode 857 | New best mean reward: -1.5
+Episode 858: total reward 18.4, steps 107
+26-06-04 21:39:40: Episode 858 | New best mean reward: 0.8
+Episode 859: total reward 21.7, steps 122
+Episode 860: total reward 40.9, steps 114
+26-06-04 21:39:40: Episode 860 | New best mean reward: 1.0
+Episode 861: total reward 74.6, steps 1000
+26-06-04 21:39:40: Episode 861 | New best mean reward: 1.7
+Episode 862: total reward -16.2, steps 164
+Episode 863: total reward 10.0, steps 180
+26-06-04 21:39:40: Episode 863 | New best mean reward: 2.0
+Episode 864: total reward 29.4, steps 185
+26-06-04 21:39:40: Episode 864 | New best mean reward: 2.0
+Episode 865: total reward 6.3, steps 109
+Episode 866: total reward 40.4, steps 129
+26-06-04 21:39:40: Episode 866 | New best mean reward: 3.7
+Episode 867: total reward 9.6, steps 162
+26-06-04 21:39:40: Episode 867 | New best mean reward: 3.7
+Episode 868: total reward 42.3, steps 128
+26-06-04 21:39:40: Episode 868 | New best mean reward: 4.0
+Episode 869: total reward -12.4, steps 165
+Episode 870: total reward -19.9, steps 157
+Episode 871: total reward 21.6, steps 162
+26-06-04 21:39:40: Episode 871 | New best mean reward: 4.1
+Episode 872: total reward 18.5, steps 234
+26-06-04 21:39:41: Episode 872 | New best mean reward: 4.8
+Episode 873: total reward -15.8, steps 188
+Episode 874: total reward -19.3, steps 238
+26-06-04 21:39:41: Episode 874 | New best mean reward: 4.8
+Episode 875: total reward 59.0, steps 151
+26-06-04 21:39:41: Episode 875 | New best mean reward: 5.4
+Episode 876: total reward -6.6, steps 93
+26-06-04 21:39:41: Episode 876 | New best mean reward: 7.5
+Episode 877: total reward 122.8, steps 1000
+26-06-04 21:39:41: Episode 877 | New best mean reward: 8.6
+Episode 878: total reward 47.7, steps 148
+26-06-04 21:39:41: Episode 878 | New best mean reward: 9.0
+Episode 879: total reward -20.9, steps 181
+Episode 880: total reward -15.5, steps 162
+Episode 881: total reward 15.5, steps 175
+Episode 882: total reward 3.8, steps 156
+Episode 883: total reward -34.3, steps 182
+Episode 884: total reward -18.9, steps 1000
+Episode 885: total reward 64.9, steps 1000
+Episode 886: total reward -57.6, steps 185
+Episode 887: total reward 54.3, steps 1000
+26-06-04 21:39:42: Episode 887 | New best mean reward: 9.3
+Episode 888: total reward 31.3, steps 185
+26-06-04 21:39:42: Episode 888 | New best mean reward: 10.4
+Episode 889: total reward 61.5, steps 1000
+26-06-04 21:39:42: Episode 889 | New best mean reward: 10.7
+Episode 890: total reward 2.2, steps 188
+Episode 891: total reward 3.5, steps 203
+26-06-04 21:39:42: Episode 891 | New best mean reward: 11.0
+Episode 892: total reward -6.1, steps 146
+Episode 893: total reward 5.0, steps 205
+Episode 894: total reward 47.2, steps 198
+26-06-04 21:39:42: Episode 894 | New best mean reward: 11.0
+Episode 895: total reward 69.6, steps 1000
+26-06-04 21:39:42: Episode 895 | New best mean reward: 11.9
+Episode 896: total reward 44.5, steps 1000
+26-06-04 21:39:42: Episode 896 | New best mean reward: 12.2
+Episode 897: total reward 88.8, steps 1000
+26-06-04 21:39:42: Episode 897 | New best mean reward: 12.7
+Episode 898: total reward -39.7, steps 183
+Episode 899: total reward 53.8, steps 1000
+Episode 900: total reward 82.1, steps 1000
+Episode 901: total reward 48.2, steps 1000
+26-06-04 21:39:43: Episode 901 | New best mean reward: 13.2
+Episode 902: total reward -1.0, steps 210
+26-06-04 21:39:43: Episode 902 | New best mean reward: 13.4
+Episode 903: total reward 52.6, steps 187
+Episode 904: total reward -7.4, steps 207
+26-06-04 21:39:43: Episode 904 | New best mean reward: 13.6
+Episode 905: total reward -43.7, steps 207
+Episode 906: total reward 14.5, steps 236
+Episode 907: total reward 13.9, steps 107
+Episode 908: total reward 14.2, steps 1000
+Episode 909: total reward -2.5, steps 151
+26-06-04 21:39:43: Episode 909 | New best mean reward: 13.8
+Episode 910: total reward -26.0, steps 219
+Episode 911: total reward 64.1, steps 1000
+26-06-04 21:39:43: Episode 911 | New best mean reward: 15.8
+Episode 912: total reward 47.3, steps 1000
+26-06-04 21:39:44: Episode 912 | New best mean reward: 16.9
+Episode 913: total reward 65.8, steps 144
+26-06-04 21:39:44: Episode 913 | New best mean reward: 17.0
+Episode 914: total reward 53.8, steps 129
+26-06-04 21:39:44: Episode 914 | New best mean reward: 17.5
+Episode 915: total reward 38.2, steps 1000
+26-06-04 21:39:44: Episode 915 | New best mean reward: 17.8
+Episode 916: total reward -14.8, steps 168
+Episode 917: total reward 12.7, steps 165
+Episode 918: total reward -41.5, steps 194
+Episode 919: total reward 39.0, steps 1000
+Episode 920: total reward 40.6, steps 223
+Episode 921: total reward -18.6, steps 169
+Episode 922: total reward -15.1, steps 205
+Episode 923: total reward -2.1, steps 153
+Episode 924: total reward 74.3, steps 1000
+Episode 925: total reward 46.0, steps 184
+Episode 926: total reward 106.8, steps 1000
+26-06-04 21:39:45: Episode 926 | New best mean reward: 19.0
+Episode 927: total reward 72.6, steps 1000
+26-06-04 21:39:45: Episode 927 | New best mean reward: 19.4
+Episode 928: total reward -47.4, steps 1000
+Episode 929: total reward -2.2, steps 171
+Episode 930: total reward 44.2, steps 1000
+Episode 931: total reward -9.3, steps 113
+Episode 932: total reward 56.4, steps 1000
+Episode 933: total reward -0.5, steps 169
+Episode 934: total reward 52.0, steps 149
+Episode 935: total reward 21.0, steps 226
+Episode 936: total reward 28.2, steps 151
+Episode 937: total reward -6.6, steps 206
+Episode 938: total reward 61.3, steps 1000
+Episode 939: total reward 48.7, steps 213
+Episode 940: total reward 14.0, steps 137
+Episode 941: total reward -139.4, steps 306
+Episode 942: total reward 34.5, steps 107
+Episode 943: total reward 24.2, steps 168
+Episode 944: total reward 34.4, steps 146
+Episode 945: total reward 1.2, steps 288
+Episode 946: total reward 30.4, steps 114
+Episode 947: total reward 89.9, steps 1000
+Episode 948: total reward 11.0, steps 166
+Episode 949: total reward 50.0, steps 1000
+Episode 950: total reward -131.5, steps 179
+Episode 951: total reward -26.2, steps 176
+Episode 952: total reward -27.6, steps 261
+Episode 953: total reward -26.5, steps 1000
+Episode 954: total reward 43.9, steps 1000
+Episode 955: total reward 54.1, steps 196
+Episode 956: total reward 4.1, steps 182
+Episode 957: total reward 31.2, steps 168
+Episode 958: total reward -23.9, steps 171
+Episode 959: total reward 26.9, steps 151
+Episode 960: total reward 99.8, steps 1000
+Episode 961: total reward 52.0, steps 138
+Episode 962: total reward -12.8, steps 213
+Episode 963: total reward 49.1, steps 141
+Episode 964: total reward 18.1, steps 162
+Episode 965: total reward -6.5, steps 184
+Episode 966: total reward 43.6, steps 136
+Episode 967: total reward -24.8, steps 102
+Episode 968: total reward 35.1, steps 1000
+Episode 969: total reward 58.8, steps 150
+Episode 970: total reward -26.3, steps 207
+Episode 971: total reward 1.6, steps 188
+Episode 972: total reward -17.1, steps 143
+Episode 973: total reward -41.6, steps 166
+Episode 974: total reward 86.5, steps 1000
+Episode 975: total reward 87.5, steps 1000
+26-06-04 21:39:48: Episode 975 | New best mean reward: 19.5
+Episode 976: total reward -0.7, steps 129
+26-06-04 21:39:48: Episode 976 | New best mean reward: 19.6
+Episode 977: total reward -6.0, steps 172
+Episode 978: total reward -1.4, steps 149
+Episode 979: total reward 128.2, steps 1000
+Episode 980: total reward 100.9, steps 1000
+26-06-04 21:39:48: Episode 980 | New best mean reward: 20.5
+Episode 981: total reward -43.5, steps 175
+Episode 982: total reward 10.0, steps 181
+Episode 983: total reward -14.2, steps 214
+Episode 984: total reward 16.9, steps 257
+26-06-04 21:39:48: Episode 984 | New best mean reward: 20.5
+Episode 985: total reward 60.5, steps 1000
+Episode 986: total reward 2.8, steps 189
+26-06-04 21:39:49: Episode 986 | New best mean reward: 21.1
+Episode 987: total reward -75.2, steps 294
+Episode 988: total reward 85.7, steps 1000
+Episode 989: total reward -29.8, steps 203
+Episode 990: total reward 42.8, steps 1000
+Episode 991: total reward -39.2, steps 189
+Episode 992: total reward -110.5, steps 193
+Episode 993: total reward 3.5, steps 1000
+Episode 994: total reward 100.7, steps 1000
+Episode 995: total reward 71.6, steps 1000
+Episode 996: total reward -48.1, steps 222
+Episode 997: total reward 5.7, steps 143
+Episode 998: total reward 1.3, steps 196
+Episode 999: total reward 70.4, steps 1000
+Episode 1000: total reward 67.9, steps 1000
+Episode 1001: total reward 30.9, steps 163
+Episode 1002: total reward 62.1, steps 156
+Episode 1003: total reward 85.4, steps 1000
+Episode 1004: total reward 42.8, steps 1000
+Episode 1005: total reward 60.2, steps 1000
+Episode 1006: total reward 50.9, steps 1000
+Episode 1007: total reward -26.8, steps 218
+Episode 1008: total reward -2.7, steps 214
+Episode 1009: total reward 91.2, steps 1000
+Episode 1010: total reward 122.0, steps 1000
+26-06-04 21:39:51: Episode 1010 | New best mean reward: 22.1
+Episode 1011: total reward 28.9, steps 215
+Episode 1012: total reward 83.8, steps 1000
+26-06-04 21:39:51: Episode 1012 | New best mean reward: 22.1
+Episode 1013: total reward 48.2, steps 179
+Episode 1014: total reward 15.1, steps 186
+Episode 1015: total reward 70.8, steps 222
+Episode 1016: total reward 10.6, steps 247
+26-06-04 21:39:51: Episode 1016 | New best mean reward: 22.1
+Episode 1017: total reward -30.4, steps 268
+Episode 1018: total reward 28.9, steps 1000
+26-06-04 21:39:52: Episode 1018 | New best mean reward: 22.4
+Episode 1019: total reward 60.2, steps 160
+26-06-04 21:39:52: Episode 1019 | New best mean reward: 22.6
+Episode 1020: total reward 11.1, steps 1000
+Episode 1021: total reward 14.4, steps 226
+26-06-04 21:39:52: Episode 1021 | New best mean reward: 22.6
+Episode 1022: total reward 18.5, steps 1000
+26-06-04 21:39:52: Episode 1022 | New best mean reward: 23.0
+Episode 1023: total reward 66.8, steps 1000
+26-06-04 21:39:52: Episode 1023 | New best mean reward: 23.7
+Episode 1024: total reward -8.1, steps 229
+Episode 1025: total reward 48.8, steps 1000
+Episode 1026: total reward 54.7, steps 1000
+Episode 1027: total reward 45.3, steps 1000
+Episode 1028: total reward 58.0, steps 1000
+Episode 1029: total reward -10.6, steps 193
+Episode 1030: total reward -21.0, steps 279
+Episode 1031: total reward -17.7, steps 1000
+Episode 1032: total reward -14.2, steps 260
+Episode 1033: total reward 26.7, steps 1000
+Episode 1034: total reward 93.7, steps 1000
+Episode 1035: total reward 91.7, steps 1000
+Episode 1036: total reward 43.9, steps 133
+Episode 1037: total reward 95.1, steps 1000
+26-06-04 21:39:54: Episode 1037 | New best mean reward: 24.2
+Episode 1038: total reward -39.1, steps 269
+Episode 1039: total reward -4.2, steps 235
+Episode 1040: total reward -108.8, steps 560
+Episode 1041: total reward 95.4, steps 1000
+Episode 1042: total reward 52.9, steps 1000
+Episode 1043: total reward 81.9, steps 1000
+26-06-04 21:39:54: Episode 1043 | New best mean reward: 24.5
+Episode 1044: total reward 49.9, steps 1000
+26-06-04 21:39:55: Episode 1044 | New best mean reward: 24.7
+Episode 1045: total reward 24.1, steps 1000
+26-06-04 21:39:55: Episode 1045 | New best mean reward: 24.9
+Episode 1046: total reward 38.2, steps 1000
+26-06-04 21:39:55: Episode 1046 | New best mean reward: 25.0
+Episode 1047: total reward 61.2, steps 1000
+Episode 1048: total reward 35.0, steps 1000
+Episode 1049: total reward 37.3, steps 1000
+Episode 1050: total reward -16.5, steps 309
+26-06-04 21:39:56: Episode 1050 | New best mean reward: 26.0
+Episode 1051: total reward -4.9, steps 220
+26-06-04 21:39:56: Episode 1051 | New best mean reward: 26.2
+Episode 1052: total reward -58.1, steps 277
+Episode 1053: total reward 87.6, steps 1000
+26-06-04 21:39:56: Episode 1053 | New best mean reward: 27.0
+Episode 1054: total reward 3.2, steps 1000
+Episode 1055: total reward 126.6, steps 1000
+26-06-04 21:39:56: Episode 1055 | New best mean reward: 27.3
+Episode 1056: total reward -19.1, steps 141
+Episode 1057: total reward 101.1, steps 1000
+26-06-04 21:39:56: Episode 1057 | New best mean reward: 27.8
+Episode 1058: total reward 107.5, steps 1000
+26-06-04 21:39:56: Episode 1058 | New best mean reward: 29.1
+Episode 1059: total reward -106.4, steps 363
+Episode 1060: total reward 109.1, steps 1000
+Episode 1061: total reward -26.9, steps 260
+Episode 1062: total reward 69.6, steps 161
+Episode 1063: total reward -23.7, steps 290
+Episode 1064: total reward 120.3, steps 1000
+Episode 1065: total reward 68.3, steps 1000
+Episode 1066: total reward 13.2, steps 300
+Episode 1067: total reward 0.1, steps 323
+Episode 1068: total reward 56.7, steps 1000
+Episode 1069: total reward -30.3, steps 233
+Episode 1070: total reward 62.2, steps 1000
+Episode 1071: total reward -25.6, steps 222
+Episode 1072: total reward -0.6, steps 241
+Episode 1073: total reward 147.3, steps 1000
+26-06-04 21:39:58: Episode 1073 | New best mean reward: 30.9
+Episode 1074: total reward -32.6, steps 243
+Episode 1075: total reward -110.4, steps 197
+Episode 1076: total reward 81.1, steps 1000
+Episode 1077: total reward 103.2, steps 1000
+Episode 1078: total reward -67.6, steps 326
+Episode 1079: total reward -18.1, steps 263
+Episode 1080: total reward 67.5, steps 1000
+Episode 1081: total reward -51.1, steps 411
+Episode 1082: total reward 75.3, steps 360
+Episode 1083: total reward 14.6, steps 1000
+Episode 1084: total reward 0.9, steps 291
+Episode 1085: total reward 81.8, steps 1000
+Episode 1086: total reward 69.6, steps 1000
+Episode 1087: total reward -7.8, steps 290
+Episode 1088: total reward -34.9, steps 277
+Episode 1089: total reward 54.4, steps 1000
+Episode 1090: total reward 84.1, steps 1000
+Episode 1091: total reward 86.6, steps 1000
+Episode 1092: total reward -6.9, steps 1000
+26-06-04 21:40:00: Episode 1092 | New best mean reward: 31.8
+Episode 1093: total reward 36.2, steps 197
+26-06-04 21:40:00: Episode 1093 | New best mean reward: 32.1
+Episode 1094: total reward -78.3, steps 311
+Episode 1095: total reward -319.8, steps 581
+Episode 1096: total reward 25.1, steps 1000
+Episode 1097: total reward -36.6, steps 899
+Episode 1098: total reward 93.8, steps 1000
+Episode 1099: total reward 23.2, steps 382
+Episode 1100: total reward 0.1, steps 1000
+Episode 1101: total reward -34.8, steps 254
+Episode 1102: total reward 56.5, steps 1000
+Episode 1103: total reward 12.3, steps 1000
+Episode 1104: total reward 44.0, steps 1000
+Episode 1105: total reward 92.7, steps 1000
+Episode 1106: total reward 2.5, steps 1000
+Episode 1107: total reward 92.3, steps 1000
+Episode 1108: total reward 81.0, steps 1000
+Episode 1109: total reward 9.5, steps 1000
+Episode 1110: total reward 136.8, steps 1000
+Episode 1111: total reward 69.5, steps 1000
+Episode 1112: total reward 119.9, steps 1000
+Episode 1113: total reward 5.0, steps 216
+Episode 1114: total reward -53.6, steps 191
+Episode 1115: total reward 27.9, steps 203
+Episode 1116: total reward 65.1, steps 1000
+Episode 1117: total reward -1.9, steps 293
+Episode 1118: total reward 47.4, steps 1000
+Episode 1119: total reward 136.6, steps 1000
+Episode 1120: total reward 74.7, steps 1000
+Episode 1121: total reward 53.6, steps 1000
+Episode 1122: total reward 89.2, steps 1000
+Episode 1123: total reward 96.4, steps 1000
+Episode 1124: total reward -8.1, steps 294
+Episode 1125: total reward 27.5, steps 1000
+Episode 1126: total reward 29.7, steps 1000
+Episode 1127: total reward 74.0, steps 1000
+Episode 1128: total reward 89.6, steps 1000
+Episode 1129: total reward 129.1, steps 1000
+Episode 1130: total reward 52.0, steps 202
+Episode 1131: total reward -21.2, steps 282
+Episode 1132: total reward 115.5, steps 1000
+26-06-04 21:40:06: Episode 1132 | New best mean reward: 32.8
+Episode 1133: total reward 55.1, steps 1000
+26-06-04 21:40:06: Episode 1133 | New best mean reward: 33.1
+Episode 1134: total reward 103.5, steps 1000
+26-06-04 21:40:06: Episode 1134 | New best mean reward: 33.2
+Episode 1135: total reward -37.9, steps 247
+Episode 1136: total reward 15.3, steps 1000
+Episode 1137: total reward 130.0, steps 1000
+Episode 1138: total reward 88.3, steps 1000
+26-06-04 21:40:06: Episode 1138 | New best mean reward: 33.2
+Episode 1139: total reward 116.4, steps 1000
+26-06-04 21:40:07: Episode 1139 | New best mean reward: 34.4
+Episode 1140: total reward 34.9, steps 193
+26-06-04 21:40:07: Episode 1140 | New best mean reward: 35.9
+Episode 1141: total reward 4.6, steps 173
+Episode 1142: total reward 57.9, steps 1000
+Episode 1143: total reward 4.2, steps 196
+Episode 1144: total reward -6.1, steps 269
+Episode 1145: total reward 75.6, steps 1000
+Episode 1146: total reward 1.9, steps 180
+Episode 1147: total reward 16.9, steps 247
+Episode 1148: total reward 96.3, steps 1000
+Episode 1149: total reward -27.7, steps 152
+Episode 1150: total reward 36.8, steps 171
+Episode 1151: total reward -17.7, steps 160
+Episode 1152: total reward -12.3, steps 171
+Episode 1153: total reward 84.1, steps 1000
+Episode 1154: total reward 95.8, steps 1000
+Episode 1155: total reward -35.8, steps 199
+Episode 1156: total reward 33.7, steps 184
+Episode 1157: total reward -49.1, steps 179
+Episode 1158: total reward 34.8, steps 223
+Episode 1159: total reward -25.3, steps 181
+Episode 1160: total reward 77.4, steps 1000
+Episode 1161: total reward 42.7, steps 151
+Episode 1162: total reward 12.5, steps 168
+Episode 1163: total reward 123.9, steps 1000
+Episode 1164: total reward 37.3, steps 182
+Episode 1165: total reward -14.8, steps 180
+Episode 1166: total reward -26.1, steps 187
+Episode 1167: total reward 10.1, steps 278
+Episode 1168: total reward 94.0, steps 1000
+Episode 1169: total reward 37.0, steps 180
+Episode 1170: total reward 11.5, steps 158
+Episode 1171: total reward 15.7, steps 195
+Episode 1172: total reward 18.5, steps 148
+Episode 1173: total reward 102.0, steps 1000
+Episode 1174: total reward -1.4, steps 184
+Episode 1175: total reward 65.3, steps 1000
+Episode 1176: total reward 131.4, steps 1000
+Episode 1177: total reward 38.7, steps 1000
+Episode 1178: total reward 62.8, steps 1000
+Episode 1179: total reward -9.9, steps 213
+26-06-04 21:40:10: Episode 1179 | New best mean reward: 35.9
+Episode 1180: total reward -21.6, steps 259
+Episode 1181: total reward 9.8, steps 223
+Episode 1182: total reward 103.4, steps 1000
+26-06-04 21:40:10: Episode 1182 | New best mean reward: 35.9
+Episode 1183: total reward 16.8, steps 170
+26-06-04 21:40:10: Episode 1183 | New best mean reward: 35.9
+Episode 1184: total reward 19.9, steps 1000
+26-06-04 21:40:10: Episode 1184 | New best mean reward: 36.1
+Episode 1185: total reward 140.6, steps 1000
+26-06-04 21:40:10: Episode 1185 | New best mean reward: 36.7
+Episode 1186: total reward -8.0, steps 236
+Episode 1187: total reward 157.0, steps 1000
+26-06-04 21:40:11: Episode 1187 | New best mean reward: 37.6
+Episode 1188: total reward 88.8, steps 1000
+26-06-04 21:40:11: Episode 1188 | New best mean reward: 38.8
+Episode 1189: total reward 144.7, steps 1000
+26-06-04 21:40:11: Episode 1189 | New best mean reward: 39.7
+Episode 1190: total reward 93.8, steps 1000
+26-06-04 21:40:11: Episode 1190 | New best mean reward: 39.8
+Episode 1191: total reward 118.3, steps 1000
+26-06-04 21:40:12: Episode 1191 | New best mean reward: 40.1
+Episode 1192: total reward 109.6, steps 1000
+26-06-04 21:40:12: Episode 1192 | New best mean reward: 41.3
+Episode 1193: total reward 115.8, steps 1000
+26-06-04 21:40:12: Episode 1193 | New best mean reward: 42.1
+Episode 1194: total reward 78.1, steps 1000
+26-06-04 21:40:12: Episode 1194 | New best mean reward: 43.7
+Episode 1195: total reward 77.6, steps 1000
+26-06-04 21:40:12: Episode 1195 | New best mean reward: 47.6
+Episode 1196: total reward 140.9, steps 1000
+26-06-04 21:40:12: Episode 1196 | New best mean reward: 48.8
+Episode 1197: total reward -21.3, steps 212
+26-06-04 21:40:12: Episode 1197 | New best mean reward: 48.9
+Episode 1198: total reward 108.1, steps 1000
+26-06-04 21:40:13: Episode 1198 | New best mean reward: 49.1
+Episode 1199: total reward 110.7, steps 1000
+26-06-04 21:40:13: Episode 1199 | New best mean reward: 50.0
+Episode 1200: total reward -14.5, steps 223
+Episode 1201: total reward -43.4, steps 208
+Episode 1202: total reward 43.8, steps 1000
+Episode 1203: total reward 7.8, steps 1000
+Episode 1204: total reward 114.2, steps 1000
+26-06-04 21:40:13: Episode 1204 | New best mean reward: 50.3
+Episode 1205: total reward 61.3, steps 1000
+Episode 1206: total reward -28.1, steps 196
+Episode 1207: total reward 26.5, steps 230
+Episode 1208: total reward 62.7, steps 1000

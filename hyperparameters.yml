@@ -1,0 +1,12 @@
+REINFORCElunarlander1:
+  env_id: LunarLander-v3
+  env_make_params:
+    continuous: False
+    gravity: -10.0
+    enable_wind: False
+    wind_power: 10.0
+    turbulence_power: 1.5
+  learning_rate : 0.001
+  gamma: 0.99
+  hidden_dim: 128
+  stop_on_reward: 200

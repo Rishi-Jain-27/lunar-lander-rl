@@ -1,0 +1,5 @@
+venv
+.venv
+CLAUDE.md
+__pycache__
+.DS_Store
