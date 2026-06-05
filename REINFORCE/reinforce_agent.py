@@ -9,7 +9,7 @@ import numpy as np
 from torch.optim import Optimizer
 
 # Import stuff from other files
-from REINFORCE.reinforce import PolicyNetwork, compute_returns
+from reinforce import PolicyNetwork, compute_returns
 
 # Import yaml for hyperparams
 import yaml
