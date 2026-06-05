@@ -1,7 +1,3 @@
-"""
-Docstring here
-"""
-
 # Import environment
 import gymnasium as gym
 from gymnasium.spaces import Discrete
